@@ -13,6 +13,13 @@ public class Main {
         Solana.radius="67376475676tt";
         Solana.tem="1267253575c";
 
+        //working on planet2
+
+        planet2 perry=new planet2();
+        perry.color="yellow";
+        perry.size="52765276567";
+        
+
 
 
 
