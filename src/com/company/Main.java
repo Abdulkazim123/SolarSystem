@@ -13,6 +13,14 @@ public class Main {
         Solana.radius="67376475676tt";
         Solana.tem="1267253575c";
 
+        //adding planet1 feature
+
+        planet1 narwhal=new planet1();
+        narwhal.color="green";
+        narwhal.size="423446524565654654";
+
+
+
 
 
 
